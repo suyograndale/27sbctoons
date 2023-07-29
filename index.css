@@ -28,6 +28,7 @@ body{
   .dropdown {
       float: left;
       position: relative;
+   z-index: 5;
   }
   
   .dropdown .dropbtn {
